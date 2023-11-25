@@ -1,0 +1,212 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+body{
+    background-color: rgb(238, 238, 238);
+}
+header{
+    padding: 0 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    height: 50px;
+    
+}
+.search{
+    text-align: center;
+    height: 20px;
+    border: solid rgb(232 232 232) 1px;
+    background-color: rgb(241 241 241);
+}
+.logo{
+    width: 130px;
+    height: 40px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.ic{
+    width: 25px;
+    height:  25px;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-around;
+    width: 174px;
+}
+.pro{
+    border-radius: 50%;
+}
+nav{
+    width: auto;
+    background-color: white;
+    margin: 12px;
+    padding: 6px;
+    height: 100px;
+    border-radius: 3px;
+    border: solid rgb(194, 194, 194) 1px;
+
+    
+    
+}
+
+aside{
+    margin-top: 30px;
+    height: auto;
+    width: 345px;
+}
+
+.min{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 12px;
+}
+
+.cen{
+    display: flex;
+
+}
+.mi{
+    margin-left: 6px;
+}
+.status{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 12px;
+
+
+}
+.fri{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-image: linear-gradient(red,yellow);
+    justify-content: center;
+    padding: 2px;
+    
+}
+.bi{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+
+}
+.big{
+    padding-top: 50px;
+    display: flex;
+    align-items: flex-start;
+    justify-content:center;
+
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.follow{
+    text-decoration: none;
+    color: rgb(1, 159, 233);
+}
+.gray{
+    color: rgb(119, 119, 119);
+}
+.su{
+    border-radius: 50%;
+    width: 38px;
+    height: 38px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+}
+
+.status div{
+    text-align: center;
+    margin: 5px;
+}
+.list{
+    list-style: none;
+    display: inline;
+    padding: 6px;
+}
+
+a{
+    text-decoration: none;
+}
+.list a{
+    color: rgb(119, 119, 119);
+    font-size: 15px;
+}
+
+section{
+    width: auto;
+    background-color: white;
+    margin: 12px;
+    padding: 6px;
+    height: auto;
+    border-radius: 3px;
+    border: solid rgb(194, 194, 194) 1px;
+}
+.uu{
+    display: flex;
+    align-items: center;
+    padding-left: 6px;
+    margin-bottom: 12px;
+    
+
+}
+
+.po{
+    border-radius: 50%;
+    width: 38px;
+    height: 38px;
+    border: solid maroon;
+    margin-right: 5px;
+
+}
+
+.fixed{
+    
+    position: fixed;
+}
+.header{
+    width: 100%;
+    border-bottom: solid rgb(194, 194, 194) 1px; 
+}
+
+.poo{
+    width: 528px;
+    height: 690px;
+}
+
+.rea{
+    padding:12px 6px;
+    display: flex;
+    align-items: center;
+}
+.re{
+    margin-right: 12px;
+}
+.comm{
+    display: flex;
+    border-top: solid rgb(194, 194, 194) 1px;
+    align-items: center;
+    height: 30px;
+
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
